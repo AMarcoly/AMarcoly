@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMarcoly
 - 👀 I’m interested in series, movies, video game and programming.
-- 🌱 I’m currently learning computer engineering at University of Strasbourg
+- 🌱 I’m currently learning computer engineering at University of Sorbonne Paris Nord
 - 💞️ I’m looking to collaborate on web programming and Language C
 - 📫 How to reach me marcolyantoine@outlook.com
 
