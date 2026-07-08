@@ -55,6 +55,11 @@
 - 💻 GitHub pro : [marcolyantoine-a11y](https://github.com/marcolyantoine-a11y)
 - 🏢 GitLab pro : [Ecolab / Ministère de la Transition Écologique](https://gitlab-forge.din.developpement-durable.gouv.fr/marcoly.antoine)
 
+<!---
+AMarcoly/AMarcoly est un dépôt ✨ spécial ✨ car son fichier `README.md` (celui-ci) apparaît sur ton profil GitHub.
+Clique sur "Preview" pour voir le rendu de tes modifications.
+--->
+
 ---
 
 <h1 align="center">Hi, I'm Marcoly Antoine 👋</h1>
@@ -116,19 +121,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcolyantoine-a11y&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
-
 <!---
 AMarcoly/AMarcoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcolyantoine-a11y&show_icons=true&theme=default" alt="Stats GitHub"/>
-</p>
-
-<!---
-AMarcoly/AMarcoly est un dépôt ✨ spécial ✨ car son fichier `README.md` (celui-ci) apparaît sur ton profil GitHub.
-Clique sur "Preview" pour voir le rendu de tes modifications.
 --->
