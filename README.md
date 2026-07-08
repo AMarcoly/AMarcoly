@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/marcolyantoine-a11y">
-    <img src="https://img.shields.io/badge/GitHub-Personnel-181717?style=flat&logo=github" alt="GitHub personnel"/>
+    <img src="https://img.shields.io/badge/GitHub-Professionnel-181717?style=flat&logo=github" alt="GitHub professionnel"/>
   </a>
   <a href="https://gitlab-forge.din.developpement-durable.gouv.fr/marcoly.antoine">
     <img src="https://img.shields.io/badge/GitLab-Pro%20(Ecolab)-FC6D26?style=flat&logo=gitlab" alt="GitLab professionnel"/>
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/marcolyantoine-a11y">
-    <img src="https://img.shields.io/badge/GitHub-Personal-181717?style=flat&logo=github" alt="Personal GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Professional-181717?style=flat&logo=github" alt="Professional GitHub"/>
   </a>
   <a href="https://gitlab-forge.din.developpement-durable.gouv.fr/marcoly.antoine">
     <img src="https://img.shields.io/badge/GitLab-Professional%20(Ecolab)-FC6D26?style=flat&logo=gitlab" alt="Professional GitLab"/>
